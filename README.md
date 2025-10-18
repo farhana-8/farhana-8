@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/imgres?q=masterhead%20banner%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F10498744%2F210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmohdaahad&docid=Pix0wG6Krn6LGM&tbnid=Gql8n76CdpGvJM&vet=12ahUKEwjHjaaJs62QAxUVzDgGHVRsHV4QM3oECBwQAA..i&w=1920&h=732&hcb=2&ved=2ahUKEwjHjaaJs62QAxUVzDgGHVRsHV4QM3oECBwQAA)]
 <h1 align="center">Hi 👋, I'm Farhanathu Saqthiya</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align = "right" alt="Coding" width="400" src="https://www.pinterest.com/pin/422281207608337/">
